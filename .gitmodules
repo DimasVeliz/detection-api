@@ -1,0 +1,3 @@
+[submodule "image-analyzer-functionalities"]
+	path = image-analyzer-functionalities
+	url = https://github.com/DimasVeliz/image-analyzer-functionalities.git
