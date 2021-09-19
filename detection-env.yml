@@ -1,6 +1,10 @@
 name: detection-env
 
+prefix: C:\Users\Owner\miniconda3\envs\detection-env
+
 dependencies:
     - python==3.7
     - pip
     - flask
+    - Pillow
+    - requests
