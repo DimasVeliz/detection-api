@@ -8,3 +8,6 @@ dependencies:
     - flask
     - Pillow
     - requests
+    - numpy 
+    - OpenCV-python
+

@@ -6,7 +6,7 @@ from io import BytesIO
 
 
 #import test image as a Pillow image from the images folder
-IMG_FILE = './images/sunfloweroil.jpg'
+IMG_FILE = './images/saved_img.jpg'
 img = Image.open(IMG_FILE)
 
 #Convert Pillow Image to bytes 
